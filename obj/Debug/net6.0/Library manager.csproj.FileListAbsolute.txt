@@ -1,0 +1,14 @@
+C:\Users\zhong\OneDrive\Desktop\Library manager\bin\Debug\net6.0\Library manager.exe
+C:\Users\zhong\OneDrive\Desktop\Library manager\bin\Debug\net6.0\Library manager.deps.json
+C:\Users\zhong\OneDrive\Desktop\Library manager\bin\Debug\net6.0\Library manager.runtimeconfig.json
+C:\Users\zhong\OneDrive\Desktop\Library manager\bin\Debug\net6.0\Library manager.dll
+C:\Users\zhong\OneDrive\Desktop\Library manager\bin\Debug\net6.0\Library manager.pdb
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.AssemblyInfoInputs.cache
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.AssemblyInfo.cs
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.csproj.CoreCompileInputs.cache
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.dll
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\refint\Library manager.dll
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.pdb
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\Library manager.genruntimeconfig.cache
+C:\Users\zhong\OneDrive\Desktop\Library manager\obj\Debug\net6.0\ref\Library manager.dll
